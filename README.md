@@ -8,7 +8,7 @@ be installed with no GitHub token.
 ## Install (macOS, Apple Silicon)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/appfactory123/amc-ai-sessions-dist/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/thisiscortex/amc-ai-sessions-dist/main/install.sh | bash
 ```
 
 This installs **AMC AI Sessions.app** to `/Applications`, provisions a data dir
